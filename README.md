@@ -1,3 +1,6 @@
+This project includes final project of the IBM DS Education completed by me and the related presentation.
+
+
 Project Overview
 This project is a practical exercise I developed while pursuing the IBM Data Science Certificate. The goal is to analyze and predict SpaceX launch successes using various data science methodologies learned throughout the certification program. The project covers the full data science pipeline, including data collection, wrangling, exploratory analysis, interactive visualization, and machine learning model development.
 
